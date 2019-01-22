@@ -1,0 +1,3 @@
+The STL files for the URDF need to be updated any time that there is a change to the physical arm. This will help keep an up to date collision model. To update the URDF in the gummi repo you must copy these parts over to the gummi_base_luffy and gummi_ee_luffy repos in their 'meshes' folder, under the same name that they were before.
+
+To keep the startup fast be sure to create new convex hull files as well as stl files of the originals. This can be done through meshlab quite easily. Otherwise, ensure that the transforms are correct in the XACRO file as well as that the STL files axis are located in the correct place on the part before using them in the XACRO file. This can be done through blender.

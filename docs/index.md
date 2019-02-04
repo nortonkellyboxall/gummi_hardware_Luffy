@@ -8,12 +8,12 @@
 Gummi_hardware_luffy is a package that contains the files that need to be used for printing, creating the urdf. It also contains the Fusion 360 f3z document that will download the top level assembly and all the parts into your project. The current version contains the parts as of the 4th of February 2019. This package is one of many packages used for the Luffy version of the Gummi Arm. 
 
 The packages are as follows:
-- gummi_base_luffy      [link to repo](https://github.com/nortonkellyboxall/gummi_base_luffy)
-- gummi_ee_luffy        [link to repo](https://github.com/nortonkellyboxall/gummi_ee_luffy)
-- gummi_head_twodof     [link to repo](https://github.com/nortonkellyboxall/gummi_head_twodof)
-- gummi_interface       [link to repo](https://github.com/nortonkellyboxall/gummi_interface)
-- gummi_moveit          [link to repo](https://github.com/nortonkellyboxall/gummi_moveit)
-- gummi_hardware_Luffy  [link to repo](https://github.com/nortonkellyboxall/gummi_hardware_Luffy)
+- [gummi_base_luffy](https://nortonkellyboxall.github.io/gummi_base_luffy/)
+- [gummi_ee_luffy](https://nortonkellyboxall.github.io/gummi_ee_luffy/)
+- [gummi_head_twodof](https://nortonkellyboxall.github.io/gummi_head_twodof/)
+- [gummi_interface](https://nortonkellyboxall.github.io/gummi_interface/)
+- [gummi_moveit](https://github.com/nortonkellyboxall/gummi_moveit)
+- [gummi_hardware_luffy](https://nortonkellyboxall.github.io/gummi_hardware_luffy/)
 
 Each of these packages are connected and required to be cloned or forked.
 

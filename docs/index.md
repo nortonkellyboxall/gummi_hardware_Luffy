@@ -13,7 +13,7 @@ The packages are as follows:
 - [gummi_head_twodof](https://nortonkellyboxall.github.io/gummi_head_twodof/)
 - [gummi_interface](https://nortonkellyboxall.github.io/gummi_interface/)
 - [gummi_moveit](https://github.com/nortonkellyboxall/gummi_moveit)
-- [gummi_hardware_luffy](https://nortonkellyboxall.github.io/gummi_hardware_luffy/)
+- [gummi_hardware_luffy](https://nortonkellyboxall.github.io/gummi_hardware_Luffy/)
 
 Each of these packages are connected and required to be cloned or forked.
 
@@ -33,6 +33,7 @@ This folder contains the individual STL files that need to be printed in order t
 This folder contains the specific STL files required to be used in the gummi_base_luffy, gummi_ee_luffy, and gummi_head_twodof. These STL files are sub assemblies that correspond to the links in the kinematic model. If any parts are created or updated for the arm then this folder needs to be updated and also the corresponding folders in the other packages.
 
 <a id = "construction"> Luffy Assembly </a>
+For assembly instructions go [here](http://htmlpreview.github.io/?https://github.com/mstoelen/GummiArm/blob/master/media/instructions/homepage.html) and [here](https://github.com/GummiArmCE/docs/wiki). Whilst this is an older resource it provides enough information on how to build and configure the Gummi Arm.
 ======
 
 
